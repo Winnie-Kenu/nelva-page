@@ -40,8 +40,8 @@ const heroSection =
 document.querySelector('.hero-section');
 
 const images = [
-    'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./IMAGE/img1-forHome.png")',
-    'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./IMAGE/img1b-forHome.png")',
+    'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img1-forHome.png")',
+    'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img1b-forHome.png")',
 ];
 
 let currentIndex = 0;
